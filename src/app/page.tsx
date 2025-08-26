@@ -15,9 +15,9 @@ export default function Page() {
       <main className="main">
         <h1>Next.js 프로젝트 입니다.</h1>
         <p>
-          간단한 Git 샘플용 데모 페이지 Ver2.0 입니다.
+          간단한 Git 샘플용 데모 페이지 Ver1.8 입니다.
           <br />
-          두번째 업데이트 버전입니다.
+          main 브랜치 정식 버전입니다.
         </p>
       </main>
 
