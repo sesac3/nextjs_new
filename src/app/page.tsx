@@ -13,11 +13,11 @@ export default function Page() {
       </header>
 
       <main className="main">
-        <h1>Next.js Git샘플용 Ver2.0</h1>
+        <h1>Next.js 프로젝트 입니다.</h1>
         <p>
-          간단한 Git 샘플용 데모 페이지 Ver2.0 입니다.
+          간단한 Git 샘플용 데모 페이지 Ver2.0.1 입니다.
           <br />
-          main 브랜치 정식 버전입니다.
+          두번째 업데이트 버전입니다.
         </p>
       </main>
 
