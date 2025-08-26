@@ -6,15 +6,19 @@ export default function Page() {
       <header className="header">
         <nav className="nav">
           <span>메인메뉴</span>
-          <span>테스트1</span>
-          <span>테스트2</span>
-          <span>테스트3</span>
+          <span>기능1</span>
+          <span>기능2</span>
+          <span>기능3</span>
         </nav>
       </header>
 
       <main className="main">
         <h1>Next.js 프로젝트 입니다.</h1>
-        <p>간단한 Git 샘플용 데모 페이지</p>
+        <p>
+          간단한 Git 샘플용 데모 페이지 Ver1.0 입니다.
+          <br />
+          두번째 업데이트 버전입니다.
+        </p>
       </main>
 
       <footer className="footer">© 2025 Next.js Test Project</footer>
