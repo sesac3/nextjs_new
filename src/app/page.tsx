@@ -17,7 +17,7 @@ export default function Page() {
         <p>
           간단한 Git 샘플용 데모 페이지 Ver2.0.1 입니다.
           <br />
-          TestVer 브랜치 테스트 버전입니다.
+          fork 테스트 기능추가 업데이트 완료.
         </p>
       </main>
 
